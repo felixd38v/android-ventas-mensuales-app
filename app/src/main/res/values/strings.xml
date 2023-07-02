@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ventas</string>
+    <string name="ene">Enero  </string>
+    <string name="feb">Febrero</string>
+    <string name="mar">Marzo  </string>
+    <string name="abr">Abril   </string>
+    <string name="may">Mayo   </string>
+
+</resources>
